@@ -18,7 +18,7 @@ I have re-created the architectural diagram and you can see (and comment) my ver
 
 ### Conceptual Diagram
 
-I have re-created the conceptual diagram and you can see (and comment) my version on this link (Lucidchart:
+I have re-created the conceptual diagram and you can see (and comment) my version on this link (Lucidchart):
 
 [Conceptual Diagram](https://lucid.app/lucidchart/bd1479fe-be72-47bb-9116-7c09b18e81cd/edit?viewport_loc=-9%2C-2106%2C2994%2C1437%2C0_0&invitationId=inv_9d1143f7-7056-499b-86cb-ea50b194f2e5)
 
@@ -29,3 +29,11 @@ I have re-created the conceptual diagram and you can see (and comment) my versio
 I have created two budgets, one for Zero Spent and one for $20, with alerts for 10%, 50%, 75% and 100%.
 
 ![Budgets](assets/week0-budgets.jpg)
+
+### Create a  Billing Alarm
+
+I have created the billing alarm for the Daily estimates charges, that would be triggered if the daily estimates charges exceeds 1$.
+The following images show the billing alarm:
+
+![Billing 1](assets/week0-billing1.jpg)
+![Billing detail](assets/week0-billing2.jpg)
