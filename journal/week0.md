@@ -4,6 +4,10 @@
 ---
 ### Install and verify AWS CLI
 
+I installed the AWS CLI as you can see on the following screenshot
+
+![AWS CLI installed](assets/week0-awscli.jpg)
+
 ### Architectural Diagram
 
 I have re-created the architectural diagram and you can see (and comment) my version on this link:
